@@ -1,126 +1,216 @@
 <div align="center">
 
-# 🚀 Hey there! I'm Puja Suara (krypton-byte) 
+<img src="https://github.com/IntenseParijat/IntenseParijat/blob/main/assets/banner.png" alt="IntenseParijat banner" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+AI+Enthusiast;React.js+%26+Python+Expert;WhatsApp+Automation+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+<h1>Parijat <span style="color:#00E5FF;">(Intense)</span></h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krypton-byte&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/krypton-byte?label=Followers&style=flat-square&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/krypton-byte?label=Stars&style=flat-square&color=yellow" alt="stars" />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=720&lines=Python+Maniac+%E2%80%A2+Creative+Chaos+Enjoyer;Gamer+%E2%80%A2+Micro+YouTuber+%E2%80%A2+Music+Producer;Desktop+Apps+%E2%80%A2+Automation+%E2%80%A2+Game+Dev+in+progress"
+  alt="Typing SVG"
+/>
+
+<p>
+  <a href="https://sites.google.com/view/intensenetwork"><img src="https://img.shields.io/badge/Website-Intense%20Network-111827?style=for-the-badge&logo=google-chrome&logoColor=00E5FF" alt="Website"></a>
+  <a href="https://aboutparijat.blogspot.com"><img src="https://img.shields.io/badge/Blog-About%20Parijat-111827?style=for-the-badge&logo=blogger&logoColor=FF6B00" alt="Blog"></a>
+  <a href="https://github.com/IntenseParijat"><img src="https://img.shields.io/github/followers/IntenseParijat?style=for-the-badge&logo=github&label=Followers&color=111827&labelColor=111827" alt="Followers"></a>
 </p>
 
 </div>
 
 ---
 
-## 🎯 About Me
+## `whoami`
 
 ```python
-class KryptonByte:
+class ParijatIntense:
     def __init__(self):
-        self.name = "Puja Suara"
-        self.username = "krypton-byte"
-        self.location = "Majalengka, Indonesia"
-        self.education = "Mathematics Education @ Universitas Sindang Kasih"
-        self.interests = ["AI & LLM", "WhatsApp Automation", "Open Source"]
-        self.current_focus = ["React.js", "Kotlin", "Jetpack Compose", "Clean Architecture"]
-        
-    def get_expertise(self):
-        return {
-            "languages": ["Python", "JavaScript", "TypeScript", "Kotlin", "Dart"],
-            "frontend": ["React.js", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
-            "backend": ["Django", "Flask", "FastAPI", "Node.js"],
-            "mobile": ["Jetpack Compose", "React Native"],
-            "specialties": ["Full Stack Development", "WhatsApp Automation", "API Design"],
-            "tools": ["Git", "Linux", "Docker", "VS Code", "Webpack"]
-        }
-    
-    def current_status(self):
-        return "Building innovative solutions & learning new technologies! 🔥"
+        self.name = "Parijat"
+        self.alias = "Intense"
+        self.location = "India"
+        self.tagline = "Python Maniac, Creative Chaos Enjoyer, gamer & micro YouTuber"
+        self.focus = ["College", "Desktop apps", "Automation", "Game development"]
+        self.learning = ["Android", "3D"]
+        self.goal = "Game Dev"
+
+    def build(self):
+        return [
+            "Tools",
+            "Downloaders",
+            "Utilities",
+            "Desktop apps",
+        ]
+
+    def current_mood(self):
+        return "Starting one more project instead of finishing the last one."
 ```
 
 ---
 
-## 🌟 Featured Projects
+## `about_me`
 
-<div align="center">
-
-| 🚀 Project | ⭐ Stars | 📝 Description |
-|------------|----------|----------------|
-| [**neonize**](https://github.com/krypton-byte/neonize) | ![Stars](https://img.shields.io/github/stars/krypton-byte/neonize?style=flat-square) | 🤖 Advanced WhatsApp automation library written in Python |
-| [**tiktok-downloader**](https://github.com/krypton-byte/tiktok-downloader) | ![Stars](https://img.shields.io/github/stars/krypton-byte/tiktok-downloader?style=flat-square) | 📹 TikTok video downloader using Python |
-| [**thundra**](https://github.com/krypton-byte/thundra) | ![Stars](https://img.shields.io/github/stars/krypton-byte/thundra?style=flat-square) | ⚡ Framework for WhatsApp bot development |
-| [**xtempmail**](https://github.com/krypton-byte/xtempmail) | ![Stars](https://img.shields.io/github/stars/krypton-byte/xtempmail?style=flat-square) | 📨 Disposable email service Python library |
-
-</div>
+- 🎓 College life, but it is a side quest
+- 🖥️ I build desktop apps, automation tools, downloaders, and utilities
+- 🎮 I stream a mix of gacha, open world, story, FPS, and action games
+- 🎵 I make remixes, edits, mashups, originals, instrumentals, nightcore, and lo-fi
+- 🚀 Learning Android and 3D while slowly moving toward game development
+- ☕ Running on curiosity, music, and occasional bad decisions that become software
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
+## `current_stack`
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### Frontend Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-95%25-111827?style=for-the-badge&logo=python&logoColor=00E5FF" alt="Python">
+  <img src="https://img.shields.io/badge/C%23-89%25-111827?style=for-the-badge&logo=csharp&logoColor=9B59B6" alt="C#">
+  <img src="https://img.shields.io/badge/Java-60%25-111827?style=for-the-badge&logo=openjdk&logoColor=FFB347" alt="Java">
+  <img src="https://img.shields.io/badge/HTML%2FCSS-20%25-111827?style=for-the-badge&logo=html5&logoColor=FF6B00" alt="HTML/CSS">
+  <img src="https://img.shields.io/badge/JavaScript-5%25-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+</p>
 
-### Backend & Mobile Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### Desktop / App Development
 
-### Tools & Technologies
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/WPF-111827?style=for-the-badge&logo=windows11&logoColor=00E5FF" alt="WPF">
+  <img src="https://img.shields.io/badge/.NET-111827?style=for-the-badge&logo=dotnet&logoColor=00E5FF" alt=".NET">
+  <img src="https://img.shields.io/badge/Android-111827?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android">
+  <img src="https://img.shields.io/badge/Unreal_Engine-111827?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF" alt="Unreal Engine">
+  <img src="https://img.shields.io/badge/Telegram_API-111827?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram API">
+  <img src="https://img.shields.io/badge/yt--dlp-111827?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="yt-dlp">
+</p>
+
+### Automation / Creative / Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code">
+  <img src="https://img.shields.io/badge/Visual_Studio-111827?style=for-the-badge&logo=visualstudio&logoColor=5C2D91" alt="Visual Studio">
+  <img src="https://img.shields.io/badge/Android_Studio-111827?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" alt="Android Studio">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-111827?style=for-the-badge&logo=intellijidea&logoColor=000000" alt="IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/PyCharm-111827?style=for-the-badge&logo=pycharm&logoColor=21D789" alt="PyCharm">
+  <img src="https://img.shields.io/badge/Python_IDLE-111827?style=for-the-badge&logo=python&logoColor=00E5FF" alt="Python IDLE">
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-111827?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Premiere_Pro-111827?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" alt="Premiere Pro">
+  <img src="https://img.shields.io/badge/After_Effects-111827?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" alt="After Effects">
+  <img src="https://img.shields.io/badge/Filmora-111827?style=for-the-badge&logo=filmora&logoColor=00E5FF" alt="Filmora">
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-111827?style=for-the-badge&logo=davinciresolve&logoColor=FF6B00" alt="DaVinci Resolve">
+</p>
+
+---
+
+## `featured_projects`
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>PingTrance</h3>
+      <p>Network monitoring tray application for Windows.</p>
+      <p><a href="https://github.com/IntenseSoftwares/PingTrance">Repository</a></p>
+    </td>
+    <td align="center" width="50%">
+      <h3>YourTube</h3>
+      <p>YouTube audio/video download tool. Old, but still part of the story.</p>
+      <p><a href="https://github.com/IntenseParijat/YourTube">Repository</a></p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
-## 💰 Web3 / Crypto Wallets
 
-### 🔗 TRON
-- **USDC (TRC20)**  
-  `TVo1pPtya5WfpxKM6XttxbWMqh3drC1GTq`
+## `what_i_do`
 
----
+<div align="center">
 
-### 🔶 BNB Smart Chain (BSC)
-- **BNB**  
-  `0xD975052eFa4A57ece0779885b66ba4017f1A1638`
+| Area | What it looks like |
+|------|--------------------|
+| 🎮 Games I Stream | Gacha, Open World, Storytelling, FPS, Action |
+| 🎵 Music Production | Remix, edits, mashup, originals, instrumentals, nightcore, lo-fi |
+| 🛠 Apps I’ve Built | PingTrance, AOC (Always On Clipboard), YouTube Download Util |
+| 🚀 Current Projects | Keeps changing frequently. That is not a bug. |
+| 📺 YouTube Channels | Personal, Main, Gaming, Music, Nightcore |
+| ☕ Support Me | Buy Me A Coffee + crypto support |
 
----
-
-### 🟦 Ethereum
-- **ETH**  
-  `0xD975052eFa4A57ece0779885b66ba4017f1A1638`
+</div>
 
 ---
 
-### 🟣 Polygon
-- **USDC (Polygon)**  
-  `0xD975052eFa4A57ece0779885b66ba4017f1A1638`
+## `stats_zone`
 
-> ⚠️ Please send assets only on the specified network.
-> 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IntenseParijat&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3&icon_color=00E5FF" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntenseParijat&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=IntenseParijat&hide_border=true&background=0D1117&ring=00E5FF&fire=FF6B00&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IntenseParijat&bg_color=0D1117&color=E6EDF3&line=00E5FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+
+</div>
+
 ---
-### 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-**Thank you for visiting! Let's build something amazing together! 🌟**
+## `support_me`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<details>
+  <summary><b>☕ Buy Me A Coffee</b></summary>
+  <br>
+
+  <a href="https://buymeacoffee.com/intense">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-111827?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00" alt="Buy Me A Coffee">
+  </a>
+
+  <br><br>
+
+  <b>TON / DeFi</b><br>
+  <code>UQC9Xmt5NAdHrBDXCeKKPIVOh5uUQtNHB7fph_NCFnatPGgA</code>
+
+  <br><br>
+
+  <b>USDT & Gram / Toncoin (TON)</b><br>
+  <code>UQA51nXJljn3njDZc9ewNpLvi29CNeUtfJVzPy4F2uYoYwR-</code>
+
+  <br><br>
+
+  <b>BTC (Bitcoin Network)</b><br>
+  <code>bc1q0zcpwus4s3wz8lh5f6pnzm3sm38mmafkpdg57c</code>
+
+  <br><br>
+
+  <b>ETH (Ethereum Network)</b><br>
+  <code>0x404bd5CFCc3eEcB0A9d501329cAA073F3f0d8A6E</code>
+</details>
+
+---
+
+## `links`
+
+<p>
+  <a href="https://www.youtube.com/@ParijatDas-Intense"><img src="https://img.shields.io/badge/Personal_Channel-111827?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Personal Channel"></a>
+  <a href="https://www.youtube.com/@Intense_Network"><img src="https://img.shields.io/badge/Main_Channel-111827?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Main Channel"></a>
+  <a href="https://www.youtube.com/@Intense_Gaming"><img src="https://img.shields.io/badge/Gaming_Channel-111827?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Gaming Channel"></a>
+  <a href="https://www.youtube.com/@Intense_Music"><img src="https://img.shields.io/badge/Music_Channel-111827?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Music Channel"></a>
+  <a href="https://www.youtube.com/@IntenseNightcore"><img src="https://img.shields.io/badge/Nightcore_Channel-111827?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Nightcore Channel"></a>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8B5CF6&height=120&section=footer" alt="Footer" />
+
+### Most of my projects started with: 'What happens if I...'
 
 </div>
