@@ -99,8 +99,8 @@ class ParijatIntense:
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/Photoshop-111827?style=for-the-badge&logo=photoshop" alt="Photoshop">
   <img src="https://custom-icon-badges.demolab.com/badge/Premiere%20Pro-111827?style=for-the-badge&logo=premiere&logoColor=6A39FF" alt="Premiere Pro">
-  <img src="https://custom-icon-badges.demolab.com/badge/Premiere%20Pro-111827?style=for-the-badge&logo=aftereffects" alt="After Effects">
-  <img src="https://custom-icon-badges.demolab.com/badge/Premiere%20Pro-111827?style=for-the-badge&logo=wondersharefilmora" alt="Filmora">
+  <img src="https://custom-icon-badges.demolab.com/badge/After%20Effects-111827?style=for-the-badge&logo=aftereffects" alt="After Effects">
+  <img src="https://custom-icon-badges.demolab.com/badge/Filmora-111827?style=for-the-badge&logo=wondersharefilmora" alt="Filmora">
   <img src="https://img.shields.io/badge/DaVinci_Resolve-111827?style=for-the-badge&logo=davinciresolve&logoColor=FF6B00" alt="DaVinci Resolve">
 </p>
 
