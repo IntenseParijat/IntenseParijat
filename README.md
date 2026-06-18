@@ -2,7 +2,7 @@
 
 <img src="https://github.com/IntenseParijat/IntenseParijat/blob/main/assets/banner.png" alt="IntenseParijat banner" width="100%" />
 
-<h1>Hey there! I am Parijat <span style="color:#00000F;">(You can call me Intense)</span></h1>
+<h1>Hey there! I am Parijat <span style="color:#C3C3C3;"> ~ Also known as Intense</span></h1>
 
 <img
   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=720&color=00F7E0&lines=Python+Maniac+%E2%80%A2+Creative+Chaos+Enjoyer;Gamer+%E2%80%A2+Micro+YouTuber+%E2%80%A2+Music+Producer;Desktop+Apps+%E2%80%A2+Automation+%E2%80%A2+Game+Dev+in+progress"
@@ -57,7 +57,7 @@ class ParijatIntense:
 
 ---
 
-## `Current Stack`
+## `Tech Arsenal`
 
 ### Languages
 
@@ -94,6 +94,7 @@ class ParijatIntense:
   <img src="https://img.shields.io/badge/PyCharm-111827?style=for-the-badge&logo=pycharm&logoColor=21D789" alt="PyCharm">
   <img src="https://img.shields.io/badge/Python_IDLE-111827?style=for-the-badge&logo=python&logoColor=00E5FF" alt="Python IDLE">
   <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=2496ED" alt="MySQL">
 </p>
 
 <p>
@@ -113,14 +114,14 @@ class ParijatIntense:
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>PingTrance</h3>
-      <p>Network monitoring tray application for Windows.</p>
-      <p><a href="https://github.com/IntenseSoftwares/PingTrance">Repository</a></p>
+      <a href="https://github.com/IntenseSoftwares/PingTrance">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IntenseSoftwares&repo=PingTrance&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3&icon_color=00E5FF" alt="PingTrance">
+      </a>
     </td>
     <td align="center" width="50%">
-      <h3>YourTube</h3>
-      <p>YouTube audio/video download tool. Old, but still part of the story.</p>
-      <p><a href="https://github.com/IntenseParijat/YourTube">Repository</a></p>
+      <p><a href="https://github.com/IntenseParijat/YourTube">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IntenseParijat&repo=YourTube&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3&icon_color=00E5FF" alt="YourTube">
+      </a>
     </td>
   </tr>
 </table>
@@ -129,20 +130,65 @@ class ParijatIntense:
 
 ---
 
-## `What I Do`
+## `Beyond Programming`
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Area | What it looks like |
-|------|--------------------|
-| 🎮 Games I Stream | Gacha, Open World, Storytelling, FPS, Action |
-| 🎵 Music Production | Remix, edits, mashup, originals, instrumentals, nightcore, lo-fi |
-| 🛠 Apps I’ve Built | PingTrance, AOC (Always On Clipboard), YouTube Download Util |
-| 🚀 Current Projects | Keeps changing frequently. That is not a bug. |
-| 📺 YouTube Channels | Personal, Main, Gaming, Music, Nightcore |
-| ☕ Support Me | Buy Me A Coffee + crypto support |
+### 🎮 Gaming
 
-</div>
+I stream whatever catches my interest:
+
+* FPS Shooters
+* Story-Driven Adventures
+* Open World Games
+* Action RPGs
+* Gacha Games
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎵 Music
+
+When I'm not coding:
+
+* Remixes
+* Mashups
+* Nightcore
+* Lo-Fi
+* Instrumentals
+* Original Tracks
+
+</td>
+</tr>
+</table>
+
+### 🛠 Things I've Built
+
+```text
+🛰 PingTrance
+📋 Always On Clipboard (AOC)
+📺 YourTube
+🗄 Database Utilities
+🏰 Minecraft Tools
+🤖 Automation Projects
+```
+
+### 🚀 Current Status
+
+```python
+while True:
+    learn_something_new()
+
+    if interesting_idea:
+        start_new_project()
+
+    if unfinished_projects > 10:
+        pretend_everything_is_fine()
+```
+
 
 ---
 
@@ -150,14 +196,17 @@ class ParijatIntense:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IntenseParijat&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3&icon_color=00E5FF" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IntenseParijat&show_icons=true&include_all_commits=true&rank_icon=github&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3&icon_color=00E5FF" alt="GitHub Stats" />
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntenseParijat&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3" alt="Top Languages" />
 
+<!--
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=IntenseParijat&hide_border=true&background=0D1117&ring=00E5FF&fire=FF6B00&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub Streak" />
 
 <br><br>
+-->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IntenseParijat&bg_color=0D1117&color=E6EDF3&line=00E5FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 
@@ -178,53 +227,45 @@ class ParijatIntense:
 
 </details>
 
+<br>
+
 <details>
   <summary><b>🇮🇳 UPI Support</b></summary>
 
   <br>
 
   <p>
-    <img src="https://img.shields.io/badge/UPI-India-111827?style=for-the-badge&logo=googlepay&logoColor=00E5FF">
+    <img src="https://img.shields.io/badge/UPI-India-111827?style=for-the-badge&logo=googlepay&logoColor=FFFFFF">
   </p>
 
   <table>
     <tr>
-      <td><b>SBI</b></td>
+      <td><b>UPI IDs ➡️</b></td>
       <td><code>parijatsoftwares@oksbi</code></td>
-    </tr>
-    <tr>
-      <td><b>HDFC</b></td>
       <td><code>parijatsoftwares@okhdfcbank</code></td>
-    </tr>
-    <tr>
-      <td><b>ICICI</b></td>
       <td><code>parijatsoftwares@okicici</code></td>
     </tr>
   </table>
 
 </details>
 
+<br>
+
 <details>
   <summary><b>💳 Crypto</b></summary>
 
   <br>
 
-  <b>TON / DeFi</b><br>
+  <b><img src="https://custom-icon-badges.demolab.com/badge/DeFi-111827?style=for-the-badge&logo=defi" alt="TON / DeFi"></b><br>
   <code>UQC9Xmt5NAdHrBDXCeKKPIVOh5uUQtNHB7fph_NCFnatPGgA</code>
 
-  <br><br>
-
-  <b>USDT & Gram / Toncoin (TON)</b><br>
+  <b><img src="https://custom-icon-badges.demolab.com/badge/USDT & Gram / Toncoin (TON)-111827?style=for-the-badge&logo=ton" alt="USDT & Gram / Toncoin (TON)"></b><br>
   <code>UQA51nXJljn3njDZc9ewNpLvi29CNeUtfJVzPy4F2uYoYwR-</code>
 
-  <br><br>
-
-  <b>BTC (Bitcoin Network)</b><br>
+  <b><img src="https://custom-icon-badges.demolab.com/badge/BTC (Bitcoin Network)-111827?style=for-the-badge&logo=bitcoin" alt="BTC (Bitcoin Network)"></b><br>
   <code>bc1q0zcpwus4s3wz8lh5f6pnzm3sm38mmafkpdg57c</code>
 
-  <br><br>
-
-  <b>ETH (Ethereum Network)</b><br>
+  <b><img src="https://custom-icon-badges.demolab.com/badge/ETH (Ethereum Network)-111827?style=for-the-badge&logo=ethereum" alt="ETH (Ethereum Network)"></b><br>
   <code>0x404bd5CFCc3eEcB0A9d501329cAA073F3f0d8A6E</code>
 
 </details>
@@ -234,18 +275,33 @@ class ParijatIntense:
 ## `Links`
 
 <p>
-  <a href="https://www.youtube.com/@ParijatDas-Intense"><img src="https://img.shields.io/badge/Personal_Channel-111827?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Personal Channel"></a>
-  <a href="https://www.youtube.com/@Intense_Network"><img src="https://img.shields.io/badge/Main_Channel-111827?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Main Channel"></a>
-  <a href="https://www.youtube.com/@Intense_Gaming"><img src="https://img.shields.io/badge/Gaming_Channel-111827?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Gaming Channel"></a>
-  <a href="https://www.youtube.com/@Intense_Music"><img src="https://img.shields.io/badge/Music_Channel-111827?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Music Channel"></a>
-  <a href="https://www.youtube.com/@IntenseNightcore"><img src="https://img.shields.io/badge/Nightcore_Channel-111827?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Nightcore Channel"></a>
+  <a href="https://www.youtube.com/@ParijatDas-Intense"><img src="https://img.shields.io/badge/Personal-111827?style=for-the-badge&logo=youtube&logoColor=6BFF10" alt="Personal Channel"></a>
+  <a href="https://AboutParijat.blogspot.com"><img src="https://img.shields.io/badge/About_Parijat-111827?style=for-the-badge&logo=blogger" alt="Personal Blog"></a>
+  <a href="https://t.me/ParijatSoftwares"><img src="https://img.shields.io/badge/Personal-111827?style=for-the-badge&logo=telegram" alt="Personal Telegram"></a>
+  <a href="https://www.facebook.com/parijatsoftwares"><img src="https://img.shields.io/badge/Personal-111827?style=for-the-badge&logo=facebook" alt="Personal Facebook"></a>
+  <a href="https://instagram.com/parijatsoftwares"><img src="https://img.shields.io/badge/Personal-111827?style=for-the-badge&logo=instagram" alt="Personal Instagram"></a>
+  <a href="mailto:parijatdas.business@gmail.com"><img src="https://img.shields.io/badge/Personal_Business_Email-111827?style=for-the-badge&logo=gmail" alt="Personal Business Email"></a>
+  <br><br>
+  <a href="https://www.youtube.com/@Intense_Network"><img src="https://img.shields.io/badge/Intense_Network-111827?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Main Channel"></a>
+  <a href="https://www.youtube.com/@Intense_Gaming"><img src="https://img.shields.io/badge/Intense_Gaming-111827?style=for-the-badge&logo=youtube&logoColor=00FFFA" alt="Gaming Channel"></a>
+  <a href="https://www.youtube.com/@Intense_Music"><img src="https://img.shields.io/badge/Intense_Music-111827?style=for-the-badge&logo=youtube&logoColor=AB00FF" alt="Music Channel"></a>
+  <a href="https://www.youtube.com/@IntenseNightcore"><img src="https://img.shields.io/badge/Intense_Nightcore-111827?style=for-the-badge&logo=youtube&logoColor=4B00FF" alt="Nightcore Channel"></a>
+  <a href="https://instagram.com/intensenetwork"><img src="https://img.shields.io/badge/Intense_Network-111827?style=for-the-badge&logo=instagram&logoColor=FF0000" alt="Main Instagram"></a>
+  <a href="https://www.facebook.com/IntenseNetwork.Official"><img src="https://img.shields.io/badge/Intense Network-111827?style=for-the-badge&logo=facebook&logoColor=0086FF" alt="Main Facebook"></a>
+  <a href="https://www.x.com/Intense_Network"><img src="https://img.shields.io/badge/Intense_Network-111827?style=for-the-badge&logo=x" alt="Main Twitter"></a>
+  <a href="https://sites.google.com/view/IntenseNetwork"><img src="https://custom-icon-badges.demolab.com/badge/Intense_Network-111827?style=for-the-badge&logo=web" alt="Website"></a>
+  <a href="https://www.deviantart.com/intensenetwork"><img src="https://img.shields.io/badge/Intense_Network-111827?style=for-the-badge&logo=deviantart" alt="Main DeviantArt"></a>
+  <a href="https://www.pixiv.net/en/users/76666664"><img src="https://img.shields.io/badge/Intense_Network-111827?style=for-the-badge&logo=artstation" alt="Main Artstation"></a>
+  <a href="https://www.pixiv.net/en/users/76666664"><img src="https://img.shields.io/badge/Intense_Network-111827?style=for-the-badge&logo=pixiv" alt="Main Pixiv"></a>
+  <a href="https://t.me/IntenseNetwork/10"><img src="https://img.shields.io/badge/Intense_Network-111827?style=for-the-badge&logo=telegram&logoColor=FF0000" alt="Telegram Main Channel"></a>
+  <a href="https://intensesoftwares.itch.io"><img src="https://img.shields.io/badge/Itch.io-111827?style=for-the-badge&logo=itch.io" alt="Itch.io"></a>
 </p>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=That%27s%20it!&strokeWidth=2%C2%A7ion=footer&reversal=false&fontAlign=50&stroke=545454&fontSize=50&textBg=false" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=The%20End&strokeWidth=2&section=footer&reversal=false&fontAlign=50&stroke=545454&fontSize=50&textBg=false" alt="Footer" />
 
 ### Most of my projects started with: 'What happens if I...'
 
