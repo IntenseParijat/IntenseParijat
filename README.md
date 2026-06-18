@@ -62,14 +62,16 @@ class ParijatIntense:
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-95%25-111827?style=for-the-badge&logo=python&logoColor=148AFF" alt="Python">
-  <img src="https://img.shields.io/badge/C-90%25-111827?style=for-the-badge&logo=csharp&logoColor=9B59B6" alt="C">
-  <img src="https://img.shields.io/badge/C%23-85%25-111827?style=for-the-badge&logo=csharp&logoColor=9B59B6" alt="C#">
-  <img src="https://img.shields.io/badge/PostgreSQL-80%25-111827?style=for-the-badge&logo=postgresql&logoColor=5EA4FF" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-70%25-111827?style=for-the-badge&logo=mysql&logoColor=5EA4FF" alt="MySQL">
-  <img src="https://img.shields.io/badge/Java-60%25-111827?style=for-the-badge&logo=openjdk&logoColor=FFB347" alt="Java">
-  <img src="https://img.shields.io/badge/HTML%2FCSS-20%25-111827?style=for-the-badge&logo=html5&logoColor=FF6B00" alt="HTML/CSS">
-  <img src="https://img.shields.io/badge/JavaScript-5%25-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=148AFF" alt="Python">
+  <img src="https://custom-icon-badges.demolab.com/badge/C-111827?style=for-the-badge&logo=cLang" alt="C">
+  <img src="https://custom-icon-badges.demolab.com/badge/C-111827?style=for-the-badge&logo=cpp" alt="C++">
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-111827?style=for-the-badge&logo=cs&logoColor=9B59B6" alt="C#">
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=5EA4FF" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=5EA4FF" alt="MySQL">
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=FFB347" alt="Java">
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=FF6B00" alt="HTML5">
+  <img src="https://custom-icon-badges.demolab.com/badge/CSS3-111827?style=for-the-badge&logo=css3" alt="CSS3">
+  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-111827?style=for-the-badge&logo=js" alt="JavaScript">
 </p>
 
 ### Desktop / App Development
@@ -90,19 +92,20 @@ class ParijatIntense:
   <img src="https://custom-icon-badges.demolab.com/badge/vs_code-111827?style=for-the-badge&logo=vscode" alt="VS Code">
   <img src="https://custom-icon-badges.demolab.com/badge/Visual_Studio-111827?style=for-the-badge&logo=visualstudio" alt="Visual Studio">
   <img src="https://img.shields.io/badge/Android_Studio-111827?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" alt="Android Studio">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-111827?style=for-the-badge&logo=intellijidea&logoColor=000000" alt="IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-111827?style=for-the-badge&logo=intellijidea&logoColor=f031f3" alt="IntelliJ IDEA">
   <img src="https://img.shields.io/badge/PyCharm-111827?style=for-the-badge&logo=pycharm&logoColor=21D789" alt="PyCharm">
   <img src="https://img.shields.io/badge/Python_IDLE-111827?style=for-the-badge&logo=python&logoColor=00E5FF" alt="Python IDLE">
   <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=2496ED" alt="MySQL">
 </p>
 
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/Photoshop-111827?style=for-the-badge&logo=photoshop" alt="Photoshop">
   <img src="https://custom-icon-badges.demolab.com/badge/Premiere%20Pro-111827?style=for-the-badge&logo=premiere&logoColor=6A39FF" alt="Premiere Pro">
-  <img src="https://custom-icon-badges.demolab.com/badge/After%20Effects-111827?style=for-the-badge&logo=aftereffects" alt="After Effects">
-  <img src="https://custom-icon-badges.demolab.com/badge/Filmora-111827?style=for-the-badge&logo=wondersharefilmora" alt="Filmora">
+  <img src="https://custom-icon-badges.demolab.com/badge/Premiere%20Pro-111827?style=for-the-badge&logo=aftereffects" alt="After Effects">
+  <img src="https://custom-icon-badges.demolab.com/badge/Premiere%20Pro-111827?style=for-the-badge&logo=wondersharefilmora" alt="Filmora">
   <img src="https://img.shields.io/badge/DaVinci_Resolve-111827?style=for-the-badge&logo=davinciresolve&logoColor=FF6B00" alt="DaVinci Resolve">
+  <img src="https://custom-icon-badges.demolab.com/badge/CapCut-111827?style=for-the-badge&logo=capcut" alt="CapCut">
+  <img src="https://custom-icon-badges.demolab.com/badge/OBS-111827?style=for-the-badge&logo=OBS" alt="OBS">
 </p>
 
 ---
