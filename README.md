@@ -96,13 +96,14 @@ class ParijatIntense:
   <img src="https://img.shields.io/badge/PyCharm-111827?style=for-the-badge&logo=pycharm&logoColor=21D789" alt="PyCharm">
   <img src="https://img.shields.io/badge/Python_IDLE-111827?style=for-the-badge&logo=python&logoColor=00E5FF" alt="Python IDLE">
   <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=2496ED" alt="MySQL">
 </p>
 
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/Photoshop-111827?style=for-the-badge&logo=photoshop" alt="Photoshop">
-  <img src="https://custom-icon-badges.demolab.com/badge/Premiere%20Pro-111827?style=for-the-badge&logo=premiere&logoColor=6A39FF" alt="Premiere Pro">
-  <img src="https://custom-icon-badges.demolab.com/badge/Premiere%20Pro-111827?style=for-the-badge&logo=aftereffects" alt="After Effects">
-  <img src="https://custom-icon-badges.demolab.com/badge/Premiere%20Pro-111827?style=for-the-badge&logo=wondersharefilmora" alt="Filmora">
+  <img src="https://custom-icon-badges.demolab.com/badge/Premiere%20Pro-111827?style=for-the-badge&logo=premiere&logoColor=7c3fcc" alt="Premiere Pro">
+  <img src="https://custom-icon-badges.demolab.com/badge/After%20Effects-111827?style=for-the-badge&logo=aftereffects" alt="After Effects">
+  <img src="https://custom-icon-badges.demolab.com/badge/Filmora-111827?style=for-the-badge&logo=wondersharefilmora" alt="Filmora">
   <img src="https://img.shields.io/badge/DaVinci_Resolve-111827?style=for-the-badge&logo=davinciresolve&logoColor=FF6B00" alt="DaVinci Resolve">
   <img src="https://custom-icon-badges.demolab.com/badge/CapCut-111827?style=for-the-badge&logo=capcut" alt="CapCut">
   <img src="https://custom-icon-badges.demolab.com/badge/OBS-111827?style=for-the-badge&logo=OBS" alt="OBS">
